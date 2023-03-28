@@ -9,3 +9,4 @@
 6)  ``` yarn hardhat deploy --tags mocks ``` to run only mocks deploy script
 7)  ``` yarn hardhat deploy ``` its run all tags auto
 8)  ``` yarn hardhat deploy --network sepolia ``` to run and verify
+9)  see publish contract here ``` 0x579570f48c9299C56145B21377a02855105b7f88 ```
