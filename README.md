@@ -8,3 +8,4 @@
 5)  ``` yarn add --dev  @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers ``` to replace thers with ethers deploy
 6)  ``` yarn hardhat deploy --tags mocks ``` to run only mocks deploy script
 7)  ``` yarn hardhat deploy ``` its run all tags auto
+8)  ``` yarn hardhat deploy --network sepolia ``` to run and verify
